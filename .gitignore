@@ -1,0 +1,28 @@
+# Temporary files
+*~
+\#*
+
+# Compiled files
+*.o
+*.so
+*.a
+
+# Build folders
+cmake-build-debug
+cmake-build-release
+build
+
+# Install folder
+install/
+
+# IntelliJ files
+.idea
+
+#Sujet
+Sujet_Projet_systeme.pdf
+
+#visual studio
+.vscode/
+
+# Graphs temp folder
+/src/graphs/img/tmp/
